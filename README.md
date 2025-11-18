@@ -20,7 +20,7 @@ Accurate segmentation of skin lesions is crucial for the diagnosis and managemen
 ## 🧠 Network Architecture
 
 <p align="center">
-  <img src="figure/架构图.png" alt="Network Architecture" width="80%">
+  <img src="figures/架构图.png" alt="Network Architecture" width="80%">
 </p>
 
 ## 🧰 Installation
